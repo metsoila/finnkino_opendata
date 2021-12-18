@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">opendata</string>
+    <string name="choose_date">Valitse päivämäärä</string>
+    <string name="choose_theatre">Valitse teatteri</string>
+    <string name="search_movies">Etsi elokuvia</string>
+    <string name="start_before">Aloita ennen</string>
+    <string name="start_after">Aloita jälkeen</string>
+    <string name="age_limit">Age limit</string>
+    <string name="time">Time</string>
+    <string name="movie_title">Movie title</string>
+    <string name="theatre">Theatre</string>
+</resources>
